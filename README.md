@@ -17,15 +17,16 @@
 ### Languages and Tools:
 
 <img align="left" alt="flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
+<img align="left" alt="ReactJs" width="26px" src="https://analyticsindiamag.com/wp-content/uploads/2021/01/pasted-image-0-2.png" />
 <img align="left" alt="Dart" width="26px" src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" />
 <img align="left" alt="java" width="26px" src="https://w7.pngwing.com/pngs/917/862/png-transparent-java-programmer-computer-programming-logo-others-miscellaneous-text-logo.png" />
-<img align="left" alt="laravel" width="26px" src="https://kollox.com/wp-content/uploads/2019/11/laravel.png" />
+<img align="left" alt="DjangoRestFramework" width="26px" src="https://www.django-rest-framework.org/img/logo.png" />
 <img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="androidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" />
-<img align="left" alt="netbeans" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" />
-<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
+<img align="left" alt="androidStudio" width="26px" src="https://www.androidpolice.com/wp-content/uploads/2020/10/10/android-studio-logo-hero_ITvLb9SXwyXu.png" />
+<img align="left" alt="vscode" width="26px" src="https://www.tmssoftware.com/images/visualstudiocodelogo.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg" />
 <br />
