@@ -8,6 +8,10 @@
 - 👯 I’m available for freelance work
 - 💬 Please feel free to ask me about the mobile world
 
+![Jagaran Maharjan's Github stats](https://github-readme-stats.vercel.app/api?username=JagaranMaharjan&show_icons=true&count_private=true&theme=algolia)
+
+![Jagaran Maharjan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagaranMaharjan&layout=compact&theme=algolia)
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/jagaran-maharjan-aa490218b/)
