@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/jagaran-maharjan-aa490218b/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />](https://www.linkedin.com/in/jagaran-maharjan-aa490218b/)
 
 <br />
 
