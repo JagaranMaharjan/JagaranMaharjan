@@ -18,7 +18,7 @@
 
 - 💼 Available for freelance consulting and mobile development work
 
-- 📬 For any new projects/technical support, feel free to reach out via. [Email](01jagaranmah10@gmail.com)
+- 📬 For any new projects/technical support, feel free to reach out via. email at: 01jagaranmah10@gmail.com
 
 - 💬 Please feel free to ask me anything about the mobile and Flutter world
   
@@ -40,5 +40,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="42px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />](https://www.linkedin.com/in/jagaran-maharjan-aa490218b/)
+[<img align="left" alt="LinkedIn" width="52px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />](https://www.linkedin.com/in/jagaran-maharjan-aa490218b/)
 
