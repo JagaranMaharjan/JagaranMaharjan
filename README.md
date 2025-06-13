@@ -17,7 +17,7 @@
 
 - 💼 Available for freelance consulting and mobile development work
 
-- 📬 For any new projects/help, feel free to reach out: 01jagaranmah10@gmail.com
+- 📬 For any new projects/technical support, feel free to reach out via. [Email](01jagaranmah10@gmail.com)
 
 - 💬 Please feel free to ask me anything about the mobile and Flutter world
 
@@ -35,8 +35,13 @@
 
 #### 🇳🇵 **Nagarik App** – Official Digital Identity & Services App for Nepal  
 
-- 🔗 [View on Play Store](https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp&hl=en)
-- 🔗 [View on App Store](https://apps.apple.com/us/app/nagarik-app/id1493013430)
+- 🔗 [📱 View on Play Store](https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp&hl=en)
+- 🔗 [🍎 View on App Store](https://apps.apple.com/us/app/nagarik-app/id1493013430)
 
 > 📱 Nagarik App is a flagship digital initiative by the Government of Nepal to provide citizens a unified mobile platform for accessing public services securely and efficiently.
 
+### 📚 Ambition Guru - EdTech Platform 
+- [📱 View on Play Store](https://play.google.com/store/apps/details?id=com.agnepal.ambitionguru&hl=en)
+- [🍎 View on App Store](https://apps.apple.com/np/app/ambition-guru/id1639309922)
+
+> 📱 Ambition Guru is a leading EdTech platform in Nepal, committed to providing both online and physical education at affordable, region-friendly pricing. With a strong focus on serving students in remote and underserved areas, Ambition Guru aims to bridge the educational gap by offering accessible, high-quality learning opportunities across the country. Whether through digital courses or in-person classes, the platform empowers learners with the tools and resources they need to succeed.
